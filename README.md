@@ -1,4 +1,4 @@
-Forked from https://github.com/rust-lang/rustlings with my solutions in it
+Forked from https://github.com/rust-lang/rustlings with my solutions included.
 
 <div class="oranda-hide">
 
